@@ -150,15 +150,6 @@ npm run dev        # Watch mode
 
 ---
 
-## Roadmap
-
-- [ ] Webapp companion (lock screen even if extension is disabled)
-- [ ] Usage history charts (7-day view)
-- [ ] Schedule-based blocking (block only during work hours)
-- [ ] Chrome Web Store publish
-
----
-
 ## License
 
 MIT
